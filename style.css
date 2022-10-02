@@ -46,7 +46,12 @@ input {
     margin-top: 15px;
 }
 
-span {
+#total,
+#player-expenses {
     color: #FF5E19;
-    margin-left: 140px;
+}
+
+.total {
+    color: #FF5E19;
+    margin-left: 20px;
 }

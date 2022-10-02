@@ -130,6 +130,7 @@ document.getElementById('calculate-total').addEventListener('click', function ()
     const total = multiply + amountValue + value;
     const totalValue = document.getElementById('total');
     const final = totalValue.innerText;
+    console.log(final)
     totalValue.innerText = total;
 })
 
