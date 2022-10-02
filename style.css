@@ -1,0 +1,52 @@
+header {
+    background-color: black;
+    height: 650px;
+}
+
+h1 {
+    color: #FF5E19;
+    font-size: 70px;
+    padding-top: 150px;
+    font-family: 'Berkshire Swash';
+}
+
+p {
+    color: slategrey;
+    font-size: 20px;
+}
+
+.card-body {
+    background-color: black;
+}
+
+.border-color {
+    background-color: rgba(0, 0, 0, 0.694);
+}
+
+.select-btn {
+    padding: 5px 86px;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #015196;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 130px;
+}
+
+.calculate-btn {
+    padding: 5px 70px;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #015196;
+    margin-left: 37px;
+    margin-top: 15px;
+}
+
+span {
+    color: #FF5E19;
+    margin-left: 140px;
+}
