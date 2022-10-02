@@ -24,7 +24,7 @@ p {
 }
 
 .select-btn {
-    padding: 5px 86px;
+    padding: 5px 65px;
     border-radius: 7px;
     font-size: 20px;
     font-weight: 400;
@@ -37,12 +37,12 @@ input {
 }
 
 .calculate-btn {
-    padding: 5px 70px;
+    padding: 5px 65px;
     border-radius: 7px;
     font-size: 18px;
     font-weight: 400;
     background-color: #015196;
-    /* margin-left: 37px; */
+    margin-left: 15px;
     margin-top: 15px;
 }
 
